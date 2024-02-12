@@ -1,0 +1,9 @@
+t its core, Git is a set of command line utility programs that are designed to execute on a Unix style command-line environment.
+Modern operating systems like Linux and macOS both include built-in Unix command line terminals. This makes Linux and macOS complementary operating systems when working with Git.
+Microsoft Windows instead uses Windows command prompt, a non-Unix terminal environment.
+
+In Windows environments, Git is often packaged as part of higher level GUI applications.
+GUIs for Git may attempt to abstract and hide the underlying version control system primitives.
+This can be a great aid for Git beginners to rapidly contribute to a project. 
+Once a project's collaboration requirements grow with other team members, it is critical to be aware of how the actual raw Git methods work. 
+This is when it can be beneficial to drop a GUI version for the command line tools. Git Bash is offered to provide a terminal Git experience.
